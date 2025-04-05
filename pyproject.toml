@@ -1,0 +1,17 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "project"
+version = "0.1.0"
+description = "A sentiment analysis library"
+authors = ["Ozan Güneyli <ozan.guneyli@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+qdrant-client = "*"
+sentence-transformers = "*"
+pyarrow = "*"
+ruff = "*"

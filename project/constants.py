@@ -1,0 +1,1 @@
+default_sentiment_threshold = 0.5
