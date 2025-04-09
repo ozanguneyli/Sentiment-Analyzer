@@ -12,6 +12,7 @@ a Python library that processes text data, generates **embeddings**, and stores 
 - 📈 Progress tracking with time estimation
 - 📝 Configurable logging with loguru
 - ⚙️ Pydantic-based configuration management
+- 🐳 Dockerized environment for easy deployment and reproducibility
 
 ## 📦 Installation
 The project is compatible with **Python 3.8+**. To install the required dependencies, run:
